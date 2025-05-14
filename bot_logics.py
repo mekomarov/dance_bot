@@ -1,7 +1,7 @@
 from telebot import TeleBot, types
 from telebot.types import ReplyKeyboardMarkup, KeyboardButton, InlineKeyboardButton, InlineKeyboardMarkup
 
-TOKEN = "7996235108:AAGc3IL_NEfeGOFrmLoSRGPn9eO0k-qGSPw"
+
 bot = TeleBot(TOKEN)
 
 # Переменные с названиями различных типов занятий
